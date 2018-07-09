@@ -4,7 +4,6 @@ var searchData=
   ['sda',['SDA',['../structctre_1_1phoenix_1_1_c_a_nifier_1_1_pin_values.html#af11e340f11ce3ce428a4d45f42477f86',1,'ctre::phoenix::CANifier::PinValues::SDA()'],['../classctre_1_1phoenix_1_1_c_a_nifier.html#a19500f07bc0811a9da0993ff664efaceab3def09f82ae0b229e966df5c2d11a3f',1,'ctre::phoenix::CANifier::SDA()'],['../class_low_level_c_a_nifier.html#afe41e644f62c52c7a84381f6bd21e291add7d4d825dc18d2a9c4e89b55539a006',1,'LowLevelCANifier::SDA()'],['../namespace_c_a_nifier___c_c_i.html#a179f1b33b76936cf10437a554014840fae01b2f0743a1d0d5f632a313ba720b35',1,'CANifier_CCI::SDA()']]],
   ['selectdemandtype',['SelectDemandType',['../classctre_1_1phoenix_1_1motorcontrol_1_1can_1_1_base_motor_controller.html#a5a62fe7e909ac4b46caadbf3b3141ca0',1,'ctre::phoenix::motorcontrol::can::BaseMotorController::SelectDemandType()'],['../classctre_1_1phoenix_1_1motorcontrol_1_1lowlevel_1_1_mot_controller___low_level.html#a6a758ce9561b529d00924dd5a2eccbf7',1,'ctre::phoenix::motorcontrol::lowlevel::MotController_LowLevel::SelectDemandType()']]],
   ['selectprofileslot',['SelectProfileSlot',['../classctre_1_1phoenix_1_1motorcontrol_1_1can_1_1_base_motor_controller.html#adcef6dbfa70d226d76f50f68b8d9bad5',1,'ctre::phoenix::motorcontrol::can::BaseMotorController::SelectProfileSlot()'],['../classctre_1_1phoenix_1_1motorcontrol_1_1_i_motor_controller.html#a91225c5b78e9cfb129857cebb50939d3',1,'ctre::phoenix::motorcontrol::IMotorController::SelectProfileSlot()'],['../classctre_1_1phoenix_1_1motorcontrol_1_1lowlevel_1_1_mot_controller___low_level.html#a2e46f0c02f473235f9863fc25db2150a',1,'ctre::phoenix::motorcontrol::lowlevel::MotController_LowLevel::SelectProfileSlot()']]],
-  ['senderror',['SendError',['../classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_protocol.html#addb95cba29a6bd699450e85dbcf5c886',1,'ctre::phoenix::platform::can::CANProtocol']]],
   ['sendmessage',['SendMessage',['../classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_protocol.html#a905a1386eec399645122c6d43e55fff8',1,'ctre::phoenix::platform::can::CANProtocol::SendMessage()'],['../classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_thread_manager.html#aba087eb564e931d10637d21360715fbf',1,'ctre::phoenix::platform::can::CANThreadManager::SendMessage()']]],
   ['sensorcollection',['SensorCollection',['../classctre_1_1phoenix_1_1motorcontrol_1_1_sensor_collection.html',1,'ctre::phoenix::motorcontrol']]],
   ['sensorcollection_2ecpp',['SensorCollection.cpp',['../_sensor_collection_8cpp.html',1,'']]],
@@ -132,10 +131,10 @@ var searchData=
   ['stopwatch_2ecpp',['Stopwatch.cpp',['../_stopwatch_8cpp.html',1,'']]],
   ['stopwatch_2eh',['Stopwatch.h',['../_stopwatch_8h.html',1,'']]],
   ['storedreceivedata',['StoredReceiveData',['../structctre_1_1phoenix_1_1platform_1_1can_1_1_stored_receive_data.html',1,'ctre::phoenix::platform::can']]],
-  ['storedsenddata',['StoredSendData',['../structctre_1_1phoenix_1_1platform_1_1can_1_1_stored_send_data.html#afdc629b03221e1e90989ac07bcb5ba55',1,'ctre::phoenix::platform::can::StoredSendData']]],
   ['storedsenddata',['StoredSendData',['../structctre_1_1phoenix_1_1platform_1_1can_1_1_stored_send_data.html',1,'ctre::phoenix::platform::can']]],
+  ['storedsenddata',['StoredSendData',['../structctre_1_1phoenix_1_1platform_1_1can_1_1_stored_send_data.html#afdc629b03221e1e90989ac07bcb5ba55',1,'ctre::phoenix::platform::can::StoredSendData']]],
   ['stream',['Stream',['../structctre_1_1phoenix_1_1platform_1_1can_1_1_stream.html',1,'ctre::phoenix::platform::can']]],
-  ['syswatchdog',['SysWatchdog',['../classctre_1_1phoenix_1_1platform_1_1_sys_watchdog.html#a3ec2f307cfaad5819dc30823d5f7c9ff',1,'ctre::phoenix::platform::SysWatchdog']]],
   ['syswatchdog',['SysWatchdog',['../classctre_1_1phoenix_1_1platform_1_1_sys_watchdog.html',1,'ctre::phoenix::platform']]],
+  ['syswatchdog',['SysWatchdog',['../classctre_1_1phoenix_1_1platform_1_1_sys_watchdog.html#a3ec2f307cfaad5819dc30823d5f7c9ff',1,'ctre::phoenix::platform::SysWatchdog']]],
   ['syswatchdog_2eh',['SysWatchdog.h',['../_sys_watchdog_8h.html',1,'']]]
 ];

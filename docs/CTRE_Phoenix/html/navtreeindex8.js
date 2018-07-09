@@ -1,6 +1,5 @@
 var NAVTREEINDEX8 =
 {
-"structctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u_1_1_fusion_status.html#ae6f3a9f68e0a6f5c6f1de6a778070a62":[1,0,0,0,3,0,0,2],
 "structctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u_1_1_general_status.html":[1,0,0,0,3,0,1],
 "structctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u_1_1_general_status.html#a1a3316ca723139a801df807c8097a564":[1,0,0,0,3,0,1,0],
 "structctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u_1_1_general_status.html#a2343f0cefc42aff5f4f889faed876b29":[1,0,0,0,3,0,1,5],

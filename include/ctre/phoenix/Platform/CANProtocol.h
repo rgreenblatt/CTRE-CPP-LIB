@@ -27,8 +27,8 @@ public:
 	//void GetCANStatus(float *percentBusUtilization, uint32_t *busOffCount,
 	//		uint32_t *txFullCount, uint32_t *receiveErrorCount,
 	//		uint32_t *transmitErrorCount, int32_t *status);
-	void SendError(int isError, int32_t errorCode, int isLVCode,
-			const char *details, const char *location, const char *callStack);
+//	void SendError(int isError, int32_t errorCode, int isLVCode,
+//			const char *details, const char *location, const char *callStack);
 private:
 	CANProtocol(const char * interface);
 	~CANProtocol();
