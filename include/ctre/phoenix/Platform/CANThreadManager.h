@@ -2,7 +2,6 @@
 #include <stdint.h>
 #include <chrono>
 #include <queue>
-#include <ics/icsneo40API.h>
 #include "ctre/phoenix/LowLevel/Device_LowLevel.h"
 #include <linux/can.h>
 
